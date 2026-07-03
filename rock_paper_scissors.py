@@ -48,6 +48,4 @@ while game_running:
         else:
             print("❌ Invalid input! Please enter Y or N.")
             continue
-
-     
-
+   
