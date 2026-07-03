@@ -1,46 +1,68 @@
 # 🐍 Python Hands-on Projects
 
-This repository contains beginner-friendly Python projects that I built while learning Python and strengthening my programming fundamentals.
+Welcome to my **Python Hands-on Projects** repository!
 
-## 🚀 Projects Included
-
-- 🎲 Dice Rolling Game
-- 🔢 Number Guessing Game
-- ✊✋✌️ Rock Paper Scissors Game
-
-*(More projects coming soon...)*
+This repository contains beginner-friendly Python projects that I built while learning Python and strengthening my programming fundamentals through practical coding.
 
 ---
 
-## 🧠 Concepts Practiced
+## 🚀 Projects
 
-- Variables
-- Data Types
+| Project | Description |
+|---------|-------------|
+| 🎲 Dice Rolling Game | Simulates rolling a dice using Python's `random` module. |
+| 🔢 Number Guessing Game | A fun game where the player guesses a randomly generated number. |
+| ✊✋✌️ Rock Paper Scissors Game | Play Rock, Paper, Scissors against the computer with input validation and game logic. |
+
+> 🚧 More projects will be added as I continue learning Python.
+
+---
+
+## 🧠 Python Concepts Practiced
+
+- Variables & Data Types
 - User Input Handling
 - Conditional Statements (`if`, `elif`, `else`)
 - Loops (`while`, `for`)
 - Nested Loops
-- Random Module
+- Functions
 - Dictionaries
-- Functions (Beginner Level)
+- Random Module
 - Input Validation
 - Basic Game Logic
-- Problem Solving & Debugging
+- Problem Solving
+- Debugging
 
 ---
 
-## 📌 About This Repository
+## 💻 Technologies Used
 
-This repository is a collection of beginner Python projects that I am building as part of my Python learning journey. Each project helps me improve my logical thinking, coding skills, and understanding of Python fundamentals through hands-on practice.
+- Python 3
+- VS Code
+- Git & GitHub
 
 ---
 
-## 🎯 Learning Goal
+## 🎯 Learning Goals
 
 - Build a strong foundation in Python
-- Improve problem-solving skills
-- Learn by creating real projects
+- Improve logical thinking and problem-solving skills
+- Learn programming through hands-on projects
+- Write clean, modular, and readable code
 - Prepare for Data Science and Software Development
+
+---
+
+## 📚 Future Projects
+
+- ✅ Dice Rolling Game
+- ✅ Number Guessing Game
+- ✅ Rock Paper Scissors Game
+- ⏳ Password Generator
+- ⏳ Calculator
+- ⏳ To-Do List
+- ⏳ Hangman Game
+- ⏳ Quiz Application
 
 ---
 
@@ -48,4 +70,6 @@ This repository is a collection of beginner Python projects that I am building a
 
 **Anjali Khonde**
 
-⭐ Thank you for visiting my repository!
+I'm documenting my Python learning journey by building small projects and continuously improving my coding skills.
+
+⭐ If you found this repository helpful, feel free to star it!
