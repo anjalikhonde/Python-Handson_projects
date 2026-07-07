@@ -17,6 +17,7 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 | ✊✋✌️ Rock Paper Scissors Game | Play Rock, Paper, Scissors against the computer with input validation and game logic. |
 | 🍽️ Cafe Ordering System | A simple restaurant ordering system that allows users to order multiple items, calculates the total bill, and validates user input. |
 | 🔳 QR Code Generator | Generates QR codes from any text or URL and saves them as image files using the `qrcode` and `Pillow` libraries. |
+| 📰 Fake News Generator | Generates humorous fake news headlines across multiple categories such as Sports, Politics, Bollywood, Technology, Horror, Space, Food, and more. Users can generate unlimited headlines and save them to a text file. |
 
 > 🚧 More Python projects will be added as I continue learning and improving my skills.
 
@@ -29,11 +30,14 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 - Conditional Statements (`if`, `elif`, `else`)
 - Loops (`for`, `while`)
 - Functions
+- Lists
 - Dictionaries
 - Random Module
 - Third-Party Libraries (`qrcode`, `Pillow`)
 - File Handling
 - Input Validation
+- String Formatting
+- Menu-Driven Programs
 - Basic Game Logic
 - Problem Solving
 - Debugging
@@ -58,6 +62,7 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 - ✅ Rock Paper Scissors Game
 - ✅ Cafe Ordering System
 - ✅ QR Code Generator
+- ✅ Fake News Generator
 
 ---
 
@@ -65,10 +70,10 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 
 - Build a strong foundation in Python
 - Improve logical thinking and problem-solving skills
-- Write clean and readable Python code
+- Write clean, readable, and maintainable Python code
 - Learn Git and GitHub for version control
 - Build real-world beginner projects
-- Prepare for Data Science and Software Development
+- Prepare for Data Science, Machine Learning, and Software Development
 
 ---
 
@@ -91,9 +96,9 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 
 Hi, I'm **Anjali Khonde**.
 
-I'm documenting my Python learning journey by building practical projects and continuously improving my programming and problem-solving skills.
+I'm documenting my Python learning journey by building practical projects and continuously improving my programming, logical thinking, and problem-solving skills.
 
-This repository reflects my progress as I learn, practice, and build new applications.
+This repository reflects my progress as I learn, practice, and build new applications. My goal is to become a skilled Software Developer and Data Scientist by consistently building real-world projects.
 
 ⭐ If you find this repository helpful, consider giving it a star!
 
@@ -101,6 +106,6 @@ This repository reflects my progress as I learn, practice, and build new applica
 
 ## 📌 Repository Status
 
-🚀 Actively maintained and updated with new Python projects.
+🚀 **Actively maintained** and regularly updated with new Python projects as I continue my learning journey.
 
 Happy Coding! 💙
