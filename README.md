@@ -4,7 +4,7 @@ Welcome to my **Python Hands-on Projects** repository! 🚀
 
 This repository contains beginner-friendly Python projects that I built while learning Python and strengthening my programming fundamentals through hands-on practice.
 
-Each project focuses on improving logical thinking, problem-solving, and writing clean, readable Python code.
+Each project focuses on improving logical thinking, problem-solving, and writing clean, readable Python code while exploring different Python concepts and basic Artificial Intelligence implementations.
 
 ---
 
@@ -13,49 +13,69 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 | Project | Description |
 |---------|-------------|
 | 🎲 Dice Rolling Game | Simulates rolling a dice using Python's `random` module. |
-| 🔢 Number Guessing Game | A fun game where the player guesses a randomly generated number. |
-| ✊✋✌️ Rock Paper Scissors Game | Play Rock, Paper, Scissors against the computer with input validation and game logic. |
-| 🍽️ Cafe Ordering System | A simple restaurant ordering system that allows users to order multiple items, calculates the total bill, and validates user input. |
-| 🔳 QR Code Generator | Generates QR codes from any text or URL and saves them as image files using the `qrcode` and `Pillow` libraries. |
-| 📰 Fake News Generator | Generates humorous fake news headlines across multiple categories such as Sports, Politics, Bollywood, Technology, Horror, Space, Food, and more. Users can generate unlimited headlines and save them to a text file. |
+| 🔢 Number Guessing Game | Guess a randomly generated number with hints until you win. |
+| ✊✋✌️ Rock Paper Scissors Game | Play Rock, Paper, Scissors against the computer with proper game logic and input validation. |
+| 🍽️ Cafe Ordering System | Menu-driven restaurant ordering system that calculates the final bill and supports multiple orders. |
+| 🔳 QR Code Generator | Generate QR codes from any text or URL and save them as image files using `qrcode` and `Pillow`. |
+| 📰 Fake News Generator | Generates funny fake news headlines across multiple categories and saves them to a text file. |
+| 🧠 Artificial Neural Network (ANN) | Beginner implementation of an Artificial Neural Network using Python for learning basic AI and Machine Learning concepts. |
+| 🧠 Convolutional Neural Network (CNN) | Beginner CNN implementation demonstrating the fundamentals of Deep Learning and image classification concepts. |
 
-> 🚧 More Python projects will be added as I continue learning and improving my skills.
+> 🚧 More exciting Python and AI projects will be added as I continue learning.
 
 ---
 
-## 🧠 Python Concepts Practiced
+# 🧠 Python Concepts Practiced
 
 - Variables & Data Types
-- User Input Handling
-- Conditional Statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
+- User Input
+- Conditional Statements
+- Loops
 - Functions
 - Lists
 - Dictionaries
 - Random Module
-- Third-Party Libraries (`qrcode`, `Pillow`)
 - File Handling
+- Exception Handling
 - Input Validation
 - String Formatting
-- Menu-Driven Programs
+- Menu-Driven Programming
 - Basic Game Logic
 - Problem Solving
 - Debugging
+- Object-Oriented Thinking
 - Git & GitHub Workflow
 
 ---
 
-## 💻 Technologies Used
+# 🤖 AI & Machine Learning Concepts
+
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Basic Machine Learning Workflow
+- Data Preprocessing
+- Neural Network Fundamentals
+- Deep Learning Basics
+
+---
+
+# 💻 Technologies Used
 
 - Python 3
 - Visual Studio Code
 - Git
 - GitHub
 - Virtual Environments (`.venv`)
+- NumPy
+- Pandas
+- TensorFlow
+- Keras
+- qrcode
+- Pillow
 
 ---
 
-## 📚 Completed Projects
+# 📚 Completed Projects
 
 - ✅ Dice Rolling Game
 - ✅ Number Guessing Game
@@ -63,49 +83,93 @@ Each project focuses on improving logical thinking, problem-solving, and writing
 - ✅ Cafe Ordering System
 - ✅ QR Code Generator
 - ✅ Fake News Generator
+- ✅ Artificial Neural Network (ANN)
+- ✅ Convolutional Neural Network (CNN)
 
 ---
 
-## 🎯 Learning Goals
+# 🎯 Learning Goals
 
-- Build a strong foundation in Python
-- Improve logical thinking and problem-solving skills
-- Write clean, readable, and maintainable Python code
-- Learn Git and GitHub for version control
-- Build real-world beginner projects
-- Prepare for Data Science, Machine Learning, and Software Development
+- Build a strong Python foundation
+- Improve logical thinking
+- Learn Data Structures and Algorithms
+- Master Object-Oriented Programming
+- Learn Machine Learning
+- Learn Deep Learning
+- Build AI applications
+- Write clean and maintainable code
+- Learn Git & GitHub professionally
+- Prepare for Software Development, AI Engineering, and Data Science
 
 ---
 
-## 🚀 Upcoming Projects
+# 🚀 Upcoming Projects
 
 - ⏳ Password Generator
 - ⏳ Calculator
 - ⏳ To-Do List (CLI)
 - ⏳ Hangman Game
 - ⏳ Quiz Application
-- ⏳ File Organizer
 - ⏳ Weather App
 - ⏳ Expense Tracker
 - ⏳ Contact Book
 - ⏳ Student Management System
+- ⏳ House Price Prediction
+- ⏳ Medical Report Analyzer
+- ⏳ Employee Hiring Prediction System
+- ⏳ AI Customer Support Chatbot
 
 ---
 
-## 👩‍💻 About Me
+# 📂 Repository Structure
+
+```
+Python_Hands-on_projects/
+│
+├── ANN.py
+├── CNN.py
+├── Dice_Rolling_Game.py
+├── number_guessing_game.py
+├── rock_paper_scissors.py
+├── rock_paper_scissors_function.py
+├── cafe_ordering_system.py
+├── qr_code_generator.py
+├── Fake_News_Generator.py
+├── constant_use_in_code.py
+├── fake_news.txt
+├── anjali.jpg
+├── README.md
+└── .gitignore
+```
+
+---
+
+# 👩‍💻 About Me
 
 Hi, I'm **Anjali Khonde**.
 
-I'm documenting my Python learning journey by building practical projects and continuously improving my programming, logical thinking, and problem-solving skills.
+I am passionate about **Python, Artificial Intelligence, Machine Learning, and Software Development**. I enjoy building practical projects that strengthen my programming skills while helping me understand real-world concepts.
 
-This repository reflects my progress as I learn, practice, and build new applications. My goal is to become a skilled Software Developer and Data Scientist by consistently building real-world projects.
+This repository documents my continuous learning journey, where I build beginner-friendly Python projects as well as AI and Machine Learning applications.
 
-⭐ If you find this repository helpful, consider giving it a star!
+My goal is to become an **AI Engineer** by consistently learning, practicing, and creating real-world projects.
 
 ---
 
-## 📌 Repository Status
+# ⭐ Support
 
-🚀 **Actively maintained** and regularly updated with new Python projects as I continue my learning journey.
+If you find this repository useful or inspiring, please consider giving it a ⭐ on GitHub.
+
+Your support motivates me to keep learning and building more projects!
+
+---
+
+# 📌 Repository Status
+
+🚀 **Actively Maintained**
+
+New Python, Machine Learning, and AI projects are added regularly as part of my learning journey.
+
+---
 
 Happy Coding! 💙
